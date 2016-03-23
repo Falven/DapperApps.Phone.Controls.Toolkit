@@ -1,0 +1,1 @@
+﻿Write a class that serializes objects to isolated storage?

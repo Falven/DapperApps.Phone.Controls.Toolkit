@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperToolkitSamples", "DapperToolkit\DapperToolkitSamples.csproj", "{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperApps.Phone.Controls.Toolkit", "DapperApps.Phone.Controls.Toolkit\DapperApps.Phone.Controls.Toolkit.csproj", "{768B492A-8F7E-4266-8BAC-0FA05BD80835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|ARM.ActiveCfg = Debug|ARM
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|ARM.Build.0 = Debug|ARM
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|ARM.Deploy.0 = Debug|ARM
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|Mixed Platforms.Deploy.0 = Debug|x86
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|x86.ActiveCfg = Debug|x86
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|x86.Build.0 = Debug|x86
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Debug|x86.Deploy.0 = Debug|x86
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|ARM.ActiveCfg = Release|ARM
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|ARM.Build.0 = Release|ARM
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|ARM.Deploy.0 = Release|ARM
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|Mixed Platforms.Build.0 = Release|x86
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|Mixed Platforms.Deploy.0 = Release|x86
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|x86.ActiveCfg = Release|x86
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|x86.Build.0 = Release|x86
+		{1BA4962C-D2B9-45D4-B048-1C3C95EBA4A6}.Release|x86.Deploy.0 = Release|x86
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Debug|ARM.ActiveCfg = Debug|ARM
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Debug|ARM.Build.0 = Debug|ARM
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Debug|x86.ActiveCfg = Debug|x86
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Debug|x86.Build.0 = Debug|x86
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Release|ARM.ActiveCfg = Release|ARM
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Release|ARM.Build.0 = Release|ARM
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Release|Mixed Platforms.Build.0 = Release|x86
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Release|x86.ActiveCfg = Release|x86
+		{768B492A-8F7E-4266-8BAC-0FA05BD80835}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
