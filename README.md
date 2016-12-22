@@ -1,4 +1,4 @@
-# DapperApps.Phone.Controls.Toolkit
+# DapperApps.UWP.Controls.Toolkit
 Comprehensive Toolkit containing many useful controls for creating Windows Phone Mobile Applications.
 A sample application is included to showcase the controls.
 
